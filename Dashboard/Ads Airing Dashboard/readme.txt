@@ -1,4 +1,0 @@
-This Dashboard is about vehicle advertising in January 2021. It can provide details of Brands, products, pod positions, spending, time, network type, and daytime.
-I have used Data Cleaning, transforming and modeling the data, Calculated Columns, Working on Power Queries, and Created charts and graphs while making this dashboard. Inside the dashboard use slicer, cards, pie chart, donut chart & bar chart. 
-This dashboard helps to find the average pod position, advertisement average time in seconds, and average spend over the brands and products. Also, it helps to show what day part is used and how much spend on it, and how much network type is used. 
-There is a competitive analysis of different brands. The competitive analysis is about how much they spend for the day part and their overall spending. It is very useful to create a new marketing strategy.
